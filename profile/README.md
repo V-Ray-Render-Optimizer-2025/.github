@@ -66,13 +66,7 @@
 ![V-Ray Interface](https://i.ytimg.com/vi/fRWANWkTouY/maxresdefault.jpg)  
 *Optimized render settings interface.*  
 
-**Lighting Template Tool**  
-![Lighting Tool](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjEVZMzrn-JAMPyahT255RWYJ3d3BHPVaeFpiY_4pUQ&s&ec=72940544)  
-*Tool for custom lighting setups.*  
 
-**Texture Optimization Panel**  
-![Texture Panel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdZVUQR_Z_ZcIx9L5g7JiPyjn6KyX5Ly5fWDlhiJKEQ&s&ec=72940544)  
-*Panel for texture and material optimization.*  
 
 ---
 
